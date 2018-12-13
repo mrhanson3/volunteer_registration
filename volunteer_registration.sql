@@ -66,15 +66,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `first`, `last`, `username`, `email`, `password`) VALUES
-(1, 'Clayton', 'sss', 'sss', 'ssss@example.com', 'alaska'),
-(2, 'hello', 'hi', 'hola', 'hi@example.com', '5ababd603b22780302dd8d83498e5172'),
-(3, 'Chicken', 'LeStrange', 'strangechicken', 'strange@example.com', '088f2ea83bd971b8bb177cb5820700f8'),
-(4, 'Clayton', 'Hanson1', 'cahanson1', 'cahanson12@example.com', '1a79a4d60de6718e8e5b326e338ae533'),
-(5, 'Em', 'Gem', 'GemToTheEm1', 'em@example.com', '1a79a4d60de6718e8e5b326e338ae533'),
-(6, 'White', 'Black', 'grey', 'grey@example.com', '1a79a4d60de6718e8e5b326e338ae533'),
-(7, 'Cam', 'Newton', 'Newt', 'cacam@example.com', '1a79a4d60de6718e8e5b326e338ae533'),
-(8, 'ed', 'ed', 'eded', 'ed@example.com', '1a79a4d60de6718e8e5b326e338ae533'),
-(9, 'John', 'Jon', 'Juan', 'johnnyjuanny@example.com', '5f4dcc3b5aa765d61d8327deb882cf99');
+
 
 --
 -- Indexes for dumped tables
