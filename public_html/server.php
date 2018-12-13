@@ -10,7 +10,7 @@ $errors = array();
 $_SESSION['success'] = "";
 
 // connect to database
-$db = mysqli_connect('localhost', 'hellofellow', 'hellor@mpage', 'tennis_registration123');
+$db = mysqli_connect('');
 
 // Check connection
 if (mysqli_connect_errno())
